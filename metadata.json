@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio",
+  "description": "AI-powered motion graphics designer, frame-accurate player, and dual-export studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

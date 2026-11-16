@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Motion Studio</string>
+    <string name="studio_tagline">پلتفرم هوشمند طراحی و رندر موشن‌گرافیک</string>
+    <string name="script_placeholder">متن یا فیلمنامه خود را وارد کنید تا هوش مصنوعی آن را به موشنگرافیک تبدیل کند…</string>
+    <string name="tab_studio">استودیو</string>
+    <string name="tab_scenes">صحنه‌ها</string>
+    <string name="tab_export">خروجی</string>
+    <string name="tab_settings">تنظیمات</string>
+    <string name="generate_motion">تولید موشن‌گرافیک</string>
+    <string name="regenerate_scene">بازطراحی صحنه</string>
+    <string name="edit_script">ویرایش فیلمنامه</string>
+    <string name="render_again">رندر مجدد</string>
+    <string name="download_transparent_mov">دانلود MOV شفاف (Alpha)</string>
+    <string name="download_white_mp4">دانلود MP4 زمینه سفید</string>
+    <string name="download_png_zip">دانلود PNG Sequence (ZIP)</string>
+    <string name="ai_firebase_notice_title">حالت پیش‌نمایش هوشمند (بدون اتصال Firebase)</string>
+    <string name="ai_firebase_notice_body">تولید سناریو با موتور جمینای در اندروید نیازمند فعال‌سازی Firebase AI Logic است. اکنون سیستم به‌صورت خودکار سناریوهای نمونه و متمایز را متناسب با مفاهیم متن شما می‌سازد.</string>
+</resources>
